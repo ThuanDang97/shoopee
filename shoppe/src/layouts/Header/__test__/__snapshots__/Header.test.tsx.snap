@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header render Should Header match Snapshot 1`] = `
+<div>
+  <header
+    class="css-15otjsi"
+  >
+    <h1
+      class="chakra-heading css-dp3sr4"
+    >
+      <figure
+        class="css-1t42uzd"
+      >
+        <img
+          alt="Logo Shoppe"
+          data-nimg="fill"
+          decoding="async"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=%2Fimages%2Flogo.webp&w=3840&q=75"
+          srcset="/_next/image?url=%2Fimages%2Flogo.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2Flogo.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2Flogo.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2Flogo.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2Flogo.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2Flogo.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Flogo.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Flogo.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Flogo.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Flogo.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+        />
+      </figure>
+    </h1>
+    <button
+      class="chakra-button css-87nahy"
+      type="button"
+    >
+      <figure
+        class="css-hym1hk"
+      >
+        <img
+          alt="Shopping Cart Icon"
+          data-nimg="fill"
+          data-testid="image"
+          decoding="async"
+          loading="lazy"
+          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+          src="/_next/image?url=%2Fimages%2FshoppingCart.webp&w=3840&q=75"
+          srcset="/_next/image?url=%2Fimages%2FshoppingCart.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2FshoppingCart.webp&w=3840&q=75 3840w"
+          style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+        />
+      </figure>
+      <div
+        class="css-16xhn0c"
+      >
+        <p
+          class="chakra-text css-1xb8dar"
+        >
+          0
+        </p>
+      </div>
+    </button>
+  </header>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;

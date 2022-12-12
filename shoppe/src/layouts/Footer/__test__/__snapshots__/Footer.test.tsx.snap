@@ -1,0 +1,215 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer render Should Footer match Snapshot 1`] = `
+<div>
+  <footer
+    class="css-1frnbgd"
+  >
+    <div
+      class="css-15g748d"
+    >
+      <nav
+        class="css-5mlst9"
+      >
+        <ul
+          class="css-js3rfl"
+          role="list"
+        >
+          <li
+            class="css-tnjslz"
+          >
+            <a
+              href="/"
+            >
+              Contact
+            </a>
+          </li>
+          <li
+            class="css-tnjslz"
+          >
+            <a
+              href="/"
+            >
+              Terms of services
+            </a>
+          </li>
+          <li
+            class="css-tnjslz"
+          >
+            <a
+              href="/"
+            >
+              Shipping and Return
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <label
+        class="chakra-checkbox css-a1ldsk"
+        data-checked=""
+      >
+        <input
+          checked=""
+          class="chakra-checkbox__input"
+          style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+          type="checkbox"
+          value=""
+        />
+        <span
+          aria-hidden="true"
+          class="chakra-checkbox__control css-kn2htf"
+          data-checked=""
+        >
+          <div
+            class="css-0"
+            style="display: flex; align-items: center; justify-content: center; height: 100%;"
+          >
+            <svg
+              class="css-1v5j1c"
+              style="fill: none; stroke-width: 2; stroke: currentColor; stroke-dasharray: 16;"
+              viewBox="0 0 12 10"
+            >
+              <polyline
+                points="1.5 6 4.5 9 10.5 1"
+              />
+            </svg>
+          </div>
+        </span>
+        <span
+          class="chakra-checkbox__label css-1p6mdqm"
+          data-checked=""
+        >
+          I agree to the website’s terms and conditions
+        </span>
+      </label>
+      <div
+        class="css-11xbhwq"
+      >
+        <p
+          class="chakra-text css-17znp9"
+        >
+          Give an email, get the newsletter.
+        </p>
+        <figure
+          class="css-16dh40w"
+        >
+          <img
+            alt="Right arrow"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            src="/_next/image?url=%2Fimages%2FiconRight.webp&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimages%2FiconRight.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2FiconRight.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2FiconRight.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2FiconRight.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2FiconRight.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2FiconRight.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2FiconRight.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2FiconRight.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2FiconRight.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2FiconRight.webp&w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </figure>
+      </div>
+    </div>
+    <div
+      class="css-82b87w"
+    >
+      <p
+        class="chakra-text css-11rc6k7"
+      >
+        <b
+          class="chakra-text css-1qtkha6"
+        >
+          © 2021 Shelly.
+        </b>
+         
+        Terms of use
+        <b
+          class="chakra-text css-1qtkha6"
+        >
+           
+          and
+        </b>
+         
+        privacy policy
+      </p>
+      <div
+        class="css-13zimb6"
+      >
+        <div
+          class="css-o5xvzg"
+        >
+          <p
+            class="chakra-text css-1bz4vjt"
+          >
+            Follow us
+          </p>
+          <span
+            class="css-13xadkr"
+          />
+        </div>
+        <figure
+          class="css-1dvkee8"
+        >
+          <img
+            alt="LinkIn Icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            src="/_next/image?url=%2Fimages%2FinIcon.webp&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimages%2FinIcon.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2FinIcon.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2FinIcon.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2FinIcon.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2FinIcon.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2FinIcon.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2FinIcon.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2FinIcon.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2FinIcon.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2FinIcon.webp&w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </figure>
+        <figure
+          class="css-1dvkee8"
+        >
+          <img
+            alt="Facebook icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            src="/_next/image?url=%2Fimages%2Ffacebook.webp&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimages%2Ffacebook.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Ffacebook.webp&w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </figure>
+        <figure
+          class="css-1dvkee8"
+        >
+          <img
+            alt="Instagram icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            src="/_next/image?url=%2Fimages%2Finstagram.webp&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimages%2Finstagram.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2Finstagram.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2Finstagram.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2Finstagram.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2Finstagram.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2Finstagram.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Finstagram.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Finstagram.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Finstagram.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Finstagram.webp&w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </figure>
+        <figure
+          class="css-1dvkee8"
+        >
+          <img
+            alt="Twitter icon"
+            data-nimg="fill"
+            data-testid="image"
+            decoding="async"
+            loading="lazy"
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            src="/_next/image?url=%2Fimages%2Ftwitter.webp&w=3840&q=75"
+            srcset="/_next/image?url=%2Fimages%2Ftwitter.webp&w=256&q=75 256w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=384&q=75 384w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=640&q=75 640w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=750&q=75 750w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=828&q=75 828w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Ftwitter.webp&w=3840&q=75 3840w"
+            style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+          />
+        </figure>
+      </div>
+    </div>
+  </footer>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</div>
+`;
